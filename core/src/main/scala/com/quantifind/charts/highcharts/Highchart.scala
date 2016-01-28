@@ -289,7 +289,7 @@ case class Highchart(
         hckTraversableToServiceFormat(series) ++
         Seq(xAxis, yAxis).flatMap(optionArrayAxisToServiceFormat) ++
         optionArrayColorToServiceFormat(colorWrapper) ++
-        Seq(chart, colorAxis, title, exporting, credits, legend, tooltip, subtitle).flatMap(optionToServiceFormat)
+        Seq(chart, colourAxis, title, exporting, credits, legend, tooltip, subtitle).flatMap(optionToServiceFormat)
   }
 
   def toServiceFormat: (String, Map[String, Any]) = {
