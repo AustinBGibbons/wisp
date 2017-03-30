@@ -2,7 +2,7 @@
 It focuses on existing web-based plotting libraries, and strives to bring the power and flexibility of web-based plotting
 tools to the scala console, while preserving an at-your-finger-tips feel readily found in matlab, R, and many other languages.
 
-![Wisp Logo](https://files.slack.com/files-tmb/T025LNAL4-F4RJ48MQQ-b7f608b276/tumblr_m9vwgufcws1qzizmho1_250_360.png)
+![Wisp Logo](https://media.giphy.com/media/hiOTu0M0ILSIU/giphy.gif)
 
 [Watch the introductory video](https://www.youtube.com/watch?v=LZH9rCEP-6w)
 
