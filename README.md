@@ -2,7 +2,7 @@
 It focuses on existing web-based plotting libraries, and strives to bring the power and flexibility of web-based plotting
 tools to the scala console, while preserving an at-your-finger-tips feel readily found in matlab, R, and many other languages.
 
-![Wisp Logo](https://raw.github.com/quantifind/wisp/master/images/wisp_logo_markOnly_color.png)
+![Wisp Logo](https://files.slack.com/files-tmb/T025LNAL4-F4RJ48MQQ-b7f608b276/tumblr_m9vwgufcws1qzizmho1_250_360.png)
 
 [Watch the introductory video](https://www.youtube.com/watch?v=LZH9rCEP-6w)
 
@@ -165,4 +165,4 @@ Because this open source project is released by [Quantifind](http://www.quantifi
 
 This library includes links to [Highcharts](http://www.highcharts.com/). It does not include a copy of the source code, and does not modify the source code.
 
-[Highcharts](http://www.highcharts.com/) is available freely for non-commercial use under [Creative Common NonCommercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/). It is **not** free for [commercial use](http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial). 
+[Highcharts](http://www.highcharts.com/) is available freely for non-commercial use under [Creative Common NonCommercial 3.0](http://creativecommons.org/licenses/by-nc/3.0/). It is **not** free for [commercial use](http://shop.highsoft.com/faq/non-commercial#what-is-non-commercial).
